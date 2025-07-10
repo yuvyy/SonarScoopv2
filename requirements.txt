@@ -1,0 +1,7 @@
+requests
+pandas
+openpyxl
+colorama
+langchain-core 
+langgraph>0.2.27
+langchain[google-genai]
