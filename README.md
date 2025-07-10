@@ -1,4 +1,4 @@
-# 🔍 SonarScoopv2 - AI powered SonarQube Security Hotspots Analyzer and Exporter
+# 🔍 SonarScoop v2 - AI powered SonarQube Security Hotspots Analyzer and Exporter
 
 LLM-Powered SonarQube Security Hotspot Reviewer is a tool that automates the analysis of security hotspots identified by SonarQube using a large language model (LLM). It extracts the relevant code segments flagged by SonarQube, sends them to an LLM for contextual understanding, and returns a verdict on whether each hotspot is a false positive or a valid security vulnerability.
 
